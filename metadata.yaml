@@ -1,0 +1,28 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Carlisle--13-A-Description-of-Its-Fabric-and-A-Bri__19881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eley, C. King
+    gutenberg_agent_id: '8938'
+    url: http://www.gutenberg.org/2009/agents/8938
+description: ''
+gutenberg_bookshelf:
+- Architecture
+- United Kingdom
+gutenberg_issued: '2006-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carlisle Cathedral (Carlisle, England)'
+- !lcc 'NA'
+title: "Bell's Cathedrals: The Cathedral Church of Carlisle\r\nA Description of Its\
+  \ Fabric and A Brief History of the Episcopal See"
+url: http://www.gutenberg.org/ebooks/19881
