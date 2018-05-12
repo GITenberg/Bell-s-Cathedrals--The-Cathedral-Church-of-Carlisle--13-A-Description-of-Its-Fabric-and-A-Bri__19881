@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8938'
     url: http://www.gutenberg.org/2009/agents/8938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19881#Bell-s-Cathedrals--The-Cathedral-Church-of-Carlisle--13-A-Description-of-Its-Fabric-and-A-Bri_
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
